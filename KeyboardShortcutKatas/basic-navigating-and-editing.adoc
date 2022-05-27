@@ -1,0 +1,79 @@
+:experimental:
+
+= Basic Text Navigation and Editing
+
+== Navigating
+
+Basic cursor movement via the four arrow keys:
+kbd:[↑]
+kbd:[↓]
+kbd:[→]
+kbd:[←]
+
+
+|===
+|Shortcut |Purpose
+
+|kbd:[HOME]
+|Move cursor to beginning of line
+
+|kbd:[END]
+|Move cursor to end of line
+
+|kbd:[Ctrl + →]
+|Move cursor one word right
+
+|kbd:[Ctrl + ←]
+|Move cursor one word left
+
+|kbd:[Ctrl + HOME]
+|Move cursor to top of file
+
+|kbd:[Ctrl + END]
+|Move cursor to end of file
+|===
+
+== Selecting
+
+Basically using the navigation keys from above while holding kbd:[Shift].
+
+|===
+|Shortcut |Purpose
+
+|kbd:[Shift + HOME]
+|Select the text between the cursor and the beginning of the current line.
+
+|kbd:[Shift + END]
+|Select the text between the cursor and the end of the current line.
+
+|kbd:[Ctrl + Shift + →]
+|Select the text between the cursor and the beginning of the word to the left (repeat kbd:[→] for more text)
+
+|kbd:[Ctrl + Shift + ←]
+|Select the text between the cursor and the end of the word to the left (repeat kbd:[←] for more text)
+
+|kbd:[Ctrl + Shift + HOME]
+|Select the text between the cursor and the beginning of the file
+
+|kbd:[Ctrl + Shift + END]
+|Select the text between the cursor and the end of the file
+
+|===
+
+== Deleting
+
+|===
+|Shortcut |Purpose
+
+|kbd:[Ctrl + Del]
+|Delete next word
+
+|kbd:[Ctrl + Backspace]
+|Delete previous word
+
+|kbd:[Ctrl + Shift + Del]
+|Delete from cursor to end of line
+
+|kbd:[Ctrl + Shift + Backspace]
+|Delete from cursor to beginning of line
+|===
