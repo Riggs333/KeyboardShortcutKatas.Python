@@ -3,7 +3,7 @@ Katas to learn keyboarding skills. Don't forget to run the unit tests when you a
 
 * [Move Line](KeyboardShortcutKatas/move_line.py) 
 * [Navigation](KeyboardShortcutKatas/Navigation.py)
-* [Inline](KeyboardShortcutKatas/Inline.cs)
+* [Inline](KeyboardShortcutKatas/Inline.py)
 * [Multi Cursor](KeyboardShortcutKatas/MultiCursor.md)
 * [Expand Selection](KeyboardShortcutKatas/ExpandSelection.md)
 * [Duplicate Lines](KeyboardShortcutKatas/DuplicateLines.md)
