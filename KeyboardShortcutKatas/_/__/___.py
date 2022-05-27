@@ -3,7 +3,7 @@ import hashlib
 yesterday = "You're done! - Great job!"
 
 """
-Hopefully, you recognized the lyrics of a song. 
+Hopefully, you recognized the lyrics of the song. ;-) 
 Type in the name of the band and run the test below to check.
 """
 band_name = ""

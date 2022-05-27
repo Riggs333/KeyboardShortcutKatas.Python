@@ -24,7 +24,7 @@ def made(cls):
 class Troubles:
 
     def seemed(self):
-        self.so()
+        so()
 
 
 class Far:

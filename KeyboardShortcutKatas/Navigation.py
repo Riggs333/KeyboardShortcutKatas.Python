@@ -2,5 +2,5 @@ from KeyboardShortcutKatas._.__ import __
 
 
 def __main__():
-    # Start Here, Read the sentence
+    # Start here navigating through the code using shortcuts, read the sentence
     __.yesterday()
