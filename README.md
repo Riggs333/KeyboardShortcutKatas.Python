@@ -1,7 +1,7 @@
 # KeyboardShortcutKatas.Python
 Katas to learn keyboarding skills. Don't forget to run the unit tests when you are editing code. Suggest looking at the exercises in this order:
 
-* [Move Line](KeyboardShortcutKatas/MoveLine.md) 
+* [Move Line](KeyboardShortcutKatas/move_line.py) 
 * [Navigation](KeyboardShortcutKatas/Navigation.cs)
 * [Inline](KeyboardShortcutKatas/Inline.cs)
 * [Multi Cursor](KeyboardShortcutKatas/MultiCursor.md)
