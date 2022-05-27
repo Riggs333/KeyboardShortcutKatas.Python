@@ -1,38 +1,33 @@
 # Expand Selection
 
-Place the cursor somewhere in the block of code you want to extract as a function. Use 'expand selection' NOT THE MOUSE! Lookup the keyboard shortcut for your tool, it's often Alt-⬆
+Place the cursor somewhere in the block of code you want to extract as a function.
+Use 'expand selection' NOT THE MOUSE!
+Lookup the keyboard shortcut for your tool, it's often Alt-⬆
 
-## Refactor TennisGame1
-Use expand selection to select the piece of code shown, then use 'extract method' or 'extract variable' or 'extract constant' with the name given. Do not use the mouse! Lookup the keyboard shortcuts for your tool.
+## Refactor TennisGame1.py
+Use expand selection to select the piece of code shown,
+then use 'extract method' or 'extract variable' or 'extract constant'
+with the name given.
+Do not use the mouse!
 
-Keep these instructions at the side of the window somewhere. Run the tests after each refactoring.
+Keep these instructions at the side of the window somewhere.
+Run the test in TennisTest.py after each refactoring.
 
-## isTie
+## is_tie
 variable
 <pre> 
-m_score1 == m_score2 
+self.p1points == self.p2points
 </pre>
 
 
-## scoreWhenTied
+## score_when_tied
 method
 <pre>
-switch (m_score1)
-{
-    case 0:
-        score = "Love-All";
-        break;
-    case 1:
-        score = "Fifteen-All";
-        break;
-    case 2:
-        score = "Thirty-All";
-        break;
-    default:
-        score = "Deuce";
-        break;
-
-}
+result = {
+    0: "Love-All",
+    1: "Fifteen-All",
+    2: "Thirty-All",
+}.get(self.p1points, "Deuce")
 </pre>
 
 ## ALL 
@@ -47,30 +42,21 @@ constant
 "-"
 </pre>
 
-## isAdvantageOrWin
+## is_advantage_or_win
 method
 <pre>
-m_score1 >= 4 || m_score2 >= 4
+self.p1points >= 4 or self.p2points >= 4
 </pre>
 
-## scoreName
+## score_name
 method
 <pre>
-switch (tempScore)
 {
-    case 0:
-        score += "Love";
-        break;
-    case 1:
-        score += "Fifteen";
-        break;
-    case 2:
-        score += "Thirty";
-        break;
-    case 3:
-        score += "Forty";
-        break;
-}
+    0: "Love",
+    1: "Fifteen",
+    2: "Thirty",
+    3: "Forty",
+}[temp_score]
 </pre>
 
 ## Use your imagination

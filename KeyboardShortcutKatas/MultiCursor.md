@@ -1,15 +1,20 @@
-﻿# Multiple Carets
-All these exercises need multiple carets or cursors. Take a moment to look up the documentation for your editor and look up the keyboard shortcuts you need. If your editor doesn't have support for all these features, switch to another for this exercise.
+﻿# Multiple Carets / Cursors / Column Selection Mode
+All these exercises need multiple carets or cursors.
+Take a moment to look up the documentation for your editor
+and look up the keyboard shortcuts you need.
 
-* [Rider](https://www.jetbrains.com/help/rider/Multicursor.html#multiselection)
+If your editor doesn't have support for all these features,
+switch to another for this exercise.
+
+* [PyCharm](https://www.jetbrains.com/help/pycharm/multicursor.html)
 * [VS Code](https://code.visualstudio.com/docs/editor/codebasics#_multiple-selections-multicursor)
-* [Visual Studio for mac](https://docs.microsoft.com/en-us/visualstudio/mac/multi-caret-editing?view=vsmac-2019)
 
 ## Column Select 
 
 ### Adding 
 
-Create several cursors in a column. Transform the start: `1 => * 1)` so the markdown shows a bulleted list
+Create several cursors in a column.
+Transform the start: `1 => * 1)` so the markdown shows a bulleted list
 
 1 apple
 2 orange
@@ -32,9 +37,10 @@ Create several cursors in a column. Delete the j and the two characters that fol
 7 drjlKagonfruit
 
 ## Word Select 
-Create a cursor at the start of each word, then select the whole word. Note you can copy/paste columns of words. 
+Create a cursor at the start of each word, then select the whole word.
+Note you can copy/paste columns of words. 
 
-Transform `1 apple => private string apple = "apple";`
+Transform `1 apple => def apple = "apple"`
 
 1 apple
 2 orange
@@ -60,7 +66,3 @@ Baby Lynx
 Dee dee, dee dee dee doo
 Baby Lynx
 
-## Parrot
-In ParrotTest.cs create additional cursors at the beginning of the expression `new Parrot(` and relace it with `Parrot.createParrot(`
-
-Make sure the tests still pass.
