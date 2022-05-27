@@ -36,15 +36,9 @@ def test_numbers_in_order():
 Also, sort the test cases below alphabetically.
 If you put the cursor on the test name, you should be able to move the whole 
 test case up and down in the same way as you can move single lines of code.
+
+Bonus points if you jump from method to method using a shortcut ;-)
 """
-
-
-def test_alpha():
-    assert "a" == " a ".strip()
-
-
-def test_beta():
-    assert "b" == " b".strip()
 
 
 def test_omega():
@@ -53,3 +47,15 @@ def test_omega():
 
 def test_epsilon():
     assert "e" == "  e  ".strip()
+
+
+def test_beta():
+    assert "b" == " b".strip()
+
+
+def test_alpha():
+    assert "a" == " a ".strip()
+
+
+def test_gamma():
+    assert "g" == " g ".strip()
