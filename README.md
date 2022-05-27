@@ -6,7 +6,7 @@ Katas to learn keyboarding skills. Don't forget to run the unit tests when you a
 * [Inline](KeyboardShortcutKatas/Inline.py)
 * [Multi Cursor](KeyboardShortcutKatas/MultiCursor.md)
 * [Expand Selection](KeyboardShortcutKatas/ExpandSelection.md)
-* [Duplicate Lines](KeyboardShortcutKatas/DuplicateLines.md)
+* [Duplicate Lines](KeyboardShortcutKatas/DuplicateLines.py)
 
 ## Acknowledgements
 These exercises were initially invented by [LearnWithLlew](https://github.com/LearnWithLlew/KeyboardShortcutKatas.Net) and [Emily Bache](https://github.com/emilybache/KeyboardShortcutKatas.Net) added a few more.
