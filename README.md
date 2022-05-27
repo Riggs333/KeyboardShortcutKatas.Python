@@ -9,4 +9,4 @@ Katas to learn keyboarding skills. Don't forget to run the unit tests when you a
 * [Duplicate Lines](KeyboardShortcutKatas/DuplicateLines.md)
 
 ## Acknowledgements
-These exercises were initially invented by [LearnWithLlew](https://github.com/LearnWithLlew/KeyboardShortcutKatas.Net) and [Emily Bache](emilybache/KeyboardShortcutKatas.Net) added a few more.
+These exercises were initially invented by [LearnWithLlew](https://github.com/LearnWithLlew/KeyboardShortcutKatas.Net) and [Emily Bache](https://github.com/emilybache/KeyboardShortcutKatas.Net) added a few more.
