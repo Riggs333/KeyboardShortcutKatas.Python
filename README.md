@@ -1,4 +1,4 @@
-# KeyboardShortcutKatas.Net
+# KeyboardShortcutKatas.Python
 Katas to learn keyboarding skills. Don't forget to run the unit tests when you are editing code. Suggest looking at the exercises in this order:
 
 * [Move Line](KeyboardShortcutKatas/MoveLine.md) 
