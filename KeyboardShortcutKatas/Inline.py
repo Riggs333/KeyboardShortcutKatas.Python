@@ -1,6 +1,6 @@
 ﻿"""
 Inline as much as you can using your IDE keyboard shortcuts.
-Run test at the bottom regularly to check you did not break anything.
+Run the test at the bottom regularly to check you did not break anything.
 """
 
 
