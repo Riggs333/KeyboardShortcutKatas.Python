@@ -60,9 +60,9 @@ Transform:
 
 Baby Lynx
 Dee dee, dee dee dee dee
-Baby Lynx
-Dee dee, dee dee dee dee
-Baby Lynx
-Dee dee, dee dee dee doo
-Baby Lynx
+    Baby Lynx
+    Dee dee, dee dee dee dee
+        Baby Lynx
+        Dee dee, dee dee dee doo
+            Baby Lynx
 
