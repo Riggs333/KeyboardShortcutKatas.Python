@@ -9,6 +9,8 @@ You can also delete the whole line of the current cursor position.
 
 Fix and add missing test cases below by catching all cases between 0 and 10
 using shortcuts for Duplicate and Delete Line.
+
+Duplicate line is also called "Copy Line Up/Down" in VS Code
 """
 import pytest
 
