@@ -1,4 +1,4 @@
-from KeyboardShortcutKatas.Tennis1 import TennisGame1
+from KeyboardShortcutKatas.tennis_game1 import TennisGame1
 
 test_cases = [
     (0, 0, "Love-All", 'player1', 'player2'),
